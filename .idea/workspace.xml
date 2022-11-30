@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b56f8f8a-8b3d-4e19-9aec-3597db14443d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AStarApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AStarPathfinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AStarState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JMapCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Waypoint.java" afterDir="false" />
-    </list>
+    <list default="true" id="b56f8f8a-8b3d-4e19-9aec-3597db14443d" name="Changes" comment="COMPLETED" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,12 +26,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AStarApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AStarApp" />
@@ -69,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669590512079</updated>
     </task>
+    <task id="LOCAL-00001" summary="COMPLETED">
+      <created>1669756659261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669756659261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="COMPLETED" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMPLETED" />
   </component>
 </project>
